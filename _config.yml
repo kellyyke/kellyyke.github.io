@@ -34,6 +34,9 @@ github:
 twitter:
   username: # change to your twitter username
 
+instagram:
+  username: _kellyyke
+
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -43,6 +46,7 @@ social:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/kellyyke # change to your github homepage
+    - https://instagram.com/_kellyyke
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,7 +84,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: avatar.jpg
+avatar: assets/lib/img/avatar.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
